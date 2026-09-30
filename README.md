@@ -1,7 +1,10 @@
 # AI_projects
 
-Colab Notebooks for the same:
-- Neural Networks: https://colab.research.google.com/drive/1HMT4pCqXZbco59bno4dgtnr2cZd9WwWi?usp=sharing
+The jupyter notebooks and python files for the labs and other non-evaluative coursework is in the directories.
+There's also Colab Notebooks for the same:
+
+Lectures:
+1. Neural Networks: https://colab.research.google.com/drive/1HMT4pCqXZbco59bno4dgtnr2cZd9WwWi?usp=sharing
 
 Labs:
 1. Neural Networks: https://colab.research.google.com/drive/1JRCqjOA3J3PM73DEg2OtR9DBDsP4tLQX?usp=sharing
